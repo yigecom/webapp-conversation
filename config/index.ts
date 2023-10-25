@@ -3,7 +3,7 @@ export const APP_ID = 'e9740760-623a-4a90-ae6d-7ead171f0e9c'
 export const API_KEY = 'app-6WXCEmZIfP65XQmYuQ1qdQo9'
 export const API_URL = 'https://api.dify.ai/v1'
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: 'Chat APP''
   description: '',
   copyright: 'migu',
   privacy_policy: '
