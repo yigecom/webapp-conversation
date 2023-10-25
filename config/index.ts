@@ -5,7 +5,7 @@ export const API_URL = 'https://api.dify.ai/v1'
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
   description: '',
-  copyright: '',
+  copyright: 'migu',
   privacy_policy: ''，
   default_language: 'zh-Hans',
 }
