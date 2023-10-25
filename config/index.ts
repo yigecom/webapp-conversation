@@ -6,7 +6,7 @@ export const APP_INFO: AppInfo = {
   title: 'Chat APP',
   description: '',
   copyright: 'migu',
-  privacy_policy: ''
+  privacy_policy: '',
   default_language: 'zh-Hans',
 }
 
